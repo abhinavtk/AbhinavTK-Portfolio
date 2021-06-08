@@ -108,12 +108,19 @@ hr {
 
 .hero .hero-txt {
     padding-top: 1rem;
-    color: var(--dark-gray);
+    color: black;
     text-align: center;
+    
 }
 
 .hero .hero-txt .hero-highlight {
     color: var(--primary-color);
+}
+
+.hero .hero-txt .date {
+    padding: 0rem;
+    text-align: center;
+    color: black;
 }
 
 .section{
@@ -132,7 +139,7 @@ hr {
 /* Footer */
 .footer{
     background-color: var(--primary-color);
-    padding: 4rem 1rem;
+    padding: 3rem 1rem;
     text-align: center;
     color:white;
     border-top-right-radius: 1rem;
@@ -151,3 +158,4 @@ hr {
 .footer ul{
     padding-inline-start: 0px;
 }
+
