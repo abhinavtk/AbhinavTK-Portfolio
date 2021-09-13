@@ -31,6 +31,7 @@ hr {
     box-sizing: border-box;
     text-decoration: none;
     padding: 0.5rem 1rem;
+    text-align: center;
 }
 
 .link-primary {
@@ -52,7 +53,9 @@ hr {
     margin: 1rem 1rem 1rem 0rem;
     
 }
-
+.link-index{
+    margin:auto; 
+}
 .link-blog {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
