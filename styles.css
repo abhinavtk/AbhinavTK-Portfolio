@@ -65,6 +65,11 @@ hr {
     margin: 1rem 1rem 1rem 0rem;
 }
 
+.yt-video {
+    margin:2rem;
+    border: 2px solid black;
+}
+
 /* Lists */
 
 .list-non-bullet {
